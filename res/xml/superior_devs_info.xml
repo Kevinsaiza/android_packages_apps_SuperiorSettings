@@ -264,6 +264,16 @@
             android:action="android.intent.action.VIEW"
             android:data="https://t.me/TheMarc43" />
     </Preference>
+
+    <Preference
+        android:title="@string/device_RMX206X"
+        android:summary="@string/device_RMX206X_description"
+        android:icon="@drawable/ic_devs_phone">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://t.me/kevinsza" />
+    </Preference>
+
 </PreferenceCategory> 
 
 </PreferenceScreen>
