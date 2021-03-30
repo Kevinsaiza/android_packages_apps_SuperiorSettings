@@ -91,6 +91,8 @@
     <string name="device_surya_description">surya\nAmJith</string>
     <string name="device_sunfish">Pixel 4a</string>
     <string name="device_sunfish_description">sunfish\nJayant Deshmukh</string>
+    <string name="device_RMX206X">Realme 6 Pro</string>
+    <string name="device_RMX206X_description">RMX206X\Kevinsaiza</string>
 	
     <!-- Categories -->
     <string name="button_title">Buttons</string>
